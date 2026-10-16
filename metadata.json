@@ -1,0 +1,6 @@
+{
+  "name": "Իսպաներեն — 50 Preguntas y Respuestas (7-րդ դասարան)",
+  "description": "Իսպաներենի խոսակցական ինտերակտիվ պրակտիկա հայերեն թարգմանությամբ, 50 հարց ու պատասխան, վարժություններ և թեստեր։",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
